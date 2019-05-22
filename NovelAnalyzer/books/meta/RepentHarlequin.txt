@@ -1,0 +1,4 @@
+title: "Repent, Harlequin!" Said the Ticktockman
+author: Harlan Ellison
+year: 1965
+chapterdelim: CHAPTER

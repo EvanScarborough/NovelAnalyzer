@@ -1,0 +1,4 @@
+title: NYT 52 Places
+author: Various
+year: 2019
+chapterdelim: CHAPTER

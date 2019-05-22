@@ -1,0 +1,5 @@
+title: The Adventures of Tom Sawyer
+author: Mark Twain
+year: 1876
+chapterdelim: CHAPTER
+chapternum: roman

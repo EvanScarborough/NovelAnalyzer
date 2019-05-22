@@ -1,0 +1,5 @@
+title: The Scarlet Letter
+author: Nathaniel Hawthorne
+year: 1850
+chapterdelim: CHAPTER
+chapternum: roman

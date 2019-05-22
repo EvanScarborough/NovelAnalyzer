@@ -1,0 +1,4 @@
+title: The Lathe of Heaven
+author: Ursula K. Le Guin
+year: 1971
+chapterdelim: CHAPTER

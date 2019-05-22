@@ -1,0 +1,4 @@
+title: Reason
+author: Isaac Asimov
+year: 1940
+chapterdelim: CHAPTER

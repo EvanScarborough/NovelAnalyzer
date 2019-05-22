@@ -1,0 +1,6 @@
+title: We
+author: Yevgeny Zamyatin
+year: 1924
+chapterdelim: TOPICS TOPIC
+chapterName: Entry
+chapternum: firstchapter

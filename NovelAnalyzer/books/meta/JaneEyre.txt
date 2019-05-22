@@ -1,0 +1,5 @@
+title: Jane Eyre
+author: Charlotte Bronte
+year: 1847
+chapterdelim: CHAPTER
+chapternum: roman

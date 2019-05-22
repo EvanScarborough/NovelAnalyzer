@@ -1,0 +1,4 @@
+title: Alice's Adventures in Wonderland
+author: Lewis Carroll
+year: 1865
+chapterdelim: CHAPTER
